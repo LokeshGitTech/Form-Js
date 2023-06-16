@@ -1,0 +1,30 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+    
+}
+.parent-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.form{
+    background-color:rgb(198, 238, 133);
+    width: 320px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px 5px #888888 ;
+    align-content: center;
+}
+
+ul li{
+    list-style: none;
+}
+
+#submit{
+    border-radius: 7px;
+    margin-left: 80px;
+    padding: 3px 8px;
+    background-color: red;
+    color: white;
+}
+
